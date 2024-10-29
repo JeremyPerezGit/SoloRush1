@@ -131,7 +131,7 @@ main img {
 }
 
 main {
-	background-image: url(../public/img/Background/universal-studios-beijing-7713754_1920.jpg);
+	background-image: url(./public/img/Background/universal-studios-beijing-7713754_1920.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
