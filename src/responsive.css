@@ -1,0 +1,30 @@
+@media screen and (min-width: 992px) {
+  header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #header-hp {
+    display: flex;
+    justify-content: left;
+  }
+
+  #presentation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #avis ol {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  #avis {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
